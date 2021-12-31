@@ -1,0 +1,38 @@
+body
+{
+    height: 820px;
+
+	background-image: linear-gradient(to top right , magenta, darksalmon, rgb(221, 126, 141), lightpink);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        
+    
+	}
+
+
+#p1name , #p2name
+{
+	display: inline-block;
+	
+}
+#login
+{
+	width: 100px;
+
+}
+
+#h11{
+    font-family:monospace;
+    font-style:italic;
+    font-weight: bolder;
+    font-variant: small-caps;
+    background-image: linear-gradient(to bottom right , white, grey);
+    margin-left:300px;
+    margin-right: 300px;
+}

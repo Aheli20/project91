@@ -1,0 +1,21 @@
+body
+{
+    height: 820px;
+
+	background-image: linear-gradient(to top right , magenta, darksalmon, rgb(221, 126, 141), lightpink);
+}
+#h12{
+    font-family:monospace;
+    font-style:italic;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-size: 50px; 
+    background: linear-gradient(to left, yellow,green,pink,blue,cyan);
+    -webkit-background-clip: text;
+      color: transparent;
+    margin-left:300px;
+    margin-right: 300px;
+    
+}
+
+
